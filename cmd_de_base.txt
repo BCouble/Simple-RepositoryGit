@@ -19,3 +19,8 @@ Pour créer un dossier :
  mkdir « le nom du dossier »
 Afficher le contenue d’un fichier :
  cat monfichier.tt
+ 
+save sur vim 
+:x
+
+q pour quit un log

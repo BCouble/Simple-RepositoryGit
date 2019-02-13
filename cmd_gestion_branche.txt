@@ -17,3 +17,13 @@ Pour fusionner les branches :
 
  2 - Puis on merge
  git merge brancheB
+ 
+Retrouver qui a fait une modif et quel commit : 
+
+git blame nomfichier.ext
+
+les 8 caracteres sont le debut du sha du commit
+
+puis le detail :
+
+git show les_8_caracteres
