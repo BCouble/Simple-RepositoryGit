@@ -1,0 +1,4 @@
+création du fichier :
+touch .gitignore
+
+mettre simplement le chemin des fichiers ou dossier à ignorer
