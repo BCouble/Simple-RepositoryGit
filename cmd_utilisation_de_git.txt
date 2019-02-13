@@ -1,3 +1,37 @@
 ------------------------------------------------------------
 Ici je vais mettre les commandes Git
 ------------------------------------------------------------
+
+On se positionne dans le bon dossier
+Cd « tatata »
+On créer notre dossier :
+mkdir monPremierRepo
+Pour activer un dossier comme repository git :
+git init
+Pour ajouter un fichier à l’index git :
+git add checklist-vacances.md
+Pour ajouter plusieurs fichier d’un coup (attention à la quantité des fichiers indexé) :
+Git status
+Pour voir l’état du repository :
+Git status
+Le premier commit :
+Commande :
+L’option -m permet d’envoyer un message sur les modifications apporté
+Git commit -m « Ajouté ma checklist-vacances.md (woohoo!) »
+Voir l’historique  :
+Git log
+Pour créer un commit sur des fichiers déjà surveillé :
+git commit -a -m "Ajouté itinéraire dans checklist-vacances.md"
+
+Pour aller sur un commit précis (retour arrière) :
+git checkout SHADuCommit (Récupéré dans git log)
+Pour revenir au dernier commit :
+git checkout master
+Pour cloner un projet exemple react FB :
+Git clone + adresse recup sur github
+git clone https://github.com/facebook/react.git
+
+Pour envoyer pusher son code sur une autre machine local ou distante :
+git push origin master
+Pour récupérer les modifications fait par une autre machine :
+Git pull origine master

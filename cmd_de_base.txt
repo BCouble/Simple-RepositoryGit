@@ -1,3 +1,21 @@
 ------------------------------------------------------------
 Ici je vais mettre les commandes de base pour utiliser la console
 ------------------------------------------------------------
+
+Commandes de base :
+Connaître le répertoire courant (celui ou l’on se trouve)
+ pwd
+Pour voir ce qui se trouve dans le dossier courant
+ ls
+Pour afficher en forme de liste :
+ -l
+Pour afficher les informations :
+ -a
+Pour se déplacer dans les dossiers vers l’avant :
+ cd « puis le nom du dossier, ou le chemin vers le dossier »
+Pour créer un fichier :
+ touch « le nom du fichier.son extention »
+Pour créer un dossier :
+ mkdir « le nom du dossier »
+Afficher le contenue d’un fichier :
+ cat monfichier.tt
