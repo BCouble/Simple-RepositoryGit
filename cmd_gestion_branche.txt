@@ -9,5 +9,11 @@ pour ce positionner sur une branche :
  git checkout nouvelle-branche
  
 pour réaliser les deux opération avec une seul cmd :
-
  git checkout -b ma-branche
+ 
+Pour fusionner les branches :
+ 1 - On se positionne sur la branche A ou l'on veut ajouter les nouveautées :
+ git checkout brancheA
+
+ 2 - Puis on merge
+ git merge brancheB
