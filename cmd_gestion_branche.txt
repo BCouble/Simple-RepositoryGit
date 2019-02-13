@@ -1,0 +1,13 @@
+------------------------------------------------------------
+Ici je vais mettre les commandes Git pour les branches
+------------------------------------------------------------
+
+pour cree une branche :
+ git branche nouvelle-branche
+
+pour ce positionner sur une branche :
+ git checkout nouvelle-branche
+ 
+pour réaliser les deux opération avec une seul cmd :
+
+ git checkout -b ma-branche
