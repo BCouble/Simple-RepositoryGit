@@ -1,0 +1,12 @@
+Permet de stocker un travaille rapidement 
+afin de répondre à une urgence sur une autre branche ou sur un autre projet 
+sans avoir à faire un commit superflux ou dans l'urgence.
+
+mettre de coté les modifications en cour :
+ git stash
+
+récupérer le travaille :
+ git stash pop
+
+ATTENTION pop vide le stash pour garder en memoire :
+ git stash apply
