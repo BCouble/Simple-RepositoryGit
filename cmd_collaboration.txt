@@ -1,0 +1,23 @@
+------------------------------------------------------------
+Ici je vais mettre les commandes pour les pull request
+------------------------------------------------------------
+Lire le readme du projet OpenSource pour avoir les informations de participation
+
+1 on fork sur github 
+
+2 Un clone
+ git clone url
+ 
+3 une bracnche
+ git checkout -b my-new-feature
+ 
+4 Un commit
+ git commit -m "Added feature allowing users to comment on the blog articles"
+ 
+5 Un push de la branche
+ git push origin my-new-feature
+ 
+6 Enfin pour finir sur GitHub le pull request 
+ On se place sur notre fork 
+ Sur notre nouvelle branche
+ Puis btn compare & pull request
