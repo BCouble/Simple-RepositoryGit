@@ -18,7 +18,8 @@ POURQUOI PAS GIT & GITHUB !!!!!
 3 - Tu peux partitionner ton code avec des branches pour faire des tests, tenter d'ajouter des modules, des fonctions sans tous casser.
 Tu gardes ta base applicative fonctionnelle, la branche master.
 
+4 – Tu fera parti de la communauté géante de l’open source.
+
 5 - En utilisant git & GitHub tu pourrais collaborer avec d'autre développeurs git te fournis les outils nécessaires pour comparer et fusionner les ajouts dans le temps.
 
 Alors tu nous rejoins ?
-
