@@ -8,7 +8,7 @@ Lire le readme du projet OpenSource pour avoir les informations de participation
 2 Un clone
  git clone url
  
-3 une bracnche
+3 une branche
  git checkout -b my-new-feature
  
 4 Un commit
